@@ -1,0 +1,139 @@
+{
+  "info": {
+    "_postman_id": "8c5d7a10-5e6b-4f4e-9b21-cinequestphase1",
+    "name": "CineQuest Phase 1 API Tests",
+    "description": "Phase 1 API tests: health check, list movies, get movie by ID, create a movie, and validate invalid movie input.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "1. Health Check",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:5000/api/health",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "5000",
+          "path": [
+            "api",
+            "health"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "2. Get All Movies",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:5000/api/resources",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "5000",
+          "path": [
+            "api",
+            "resources"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "3. Get Movie by ID",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:5000/api/resources/151",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "5000",
+          "path": [
+            "api",
+            "resources",
+            "151"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "4. Create New Movie",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"id\": 155,\n  \"title\": \"Postman Collection Test Movie\",\n  \"genre\": \"Adventure\",\n  \"genres\": [\n    \"Adventure\",\n    \"Drama\"\n  ],\n  \"year\": 2026,\n  \"rating\": 8.2,\n  \"director\": \"Postman Test Director\"\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "http://localhost:5000/api/resources",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "5000",
+          "path": [
+            "api",
+            "resources"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "5. Invalid Create Movie",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"id\": 156,\n  \"genre\": \"Drama\",\n  \"year\": 2026,\n  \"rating\": 7.5\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "http://localhost:5000/api/resources",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "5000",
+          "path": [
+            "api",
+            "resources"
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}

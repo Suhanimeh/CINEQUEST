@@ -1,0 +1,3146 @@
+[
+  {
+    "id": 1,
+    "title": "Our Life (La nostra vita)",
+    "genre": "Drama",
+    "genres": [
+      "Drama"
+    ],
+    "year": 2007,
+    "rating": 3,
+    "director": "Madel Higounet",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/1-our-life-la-nostra-vita/600/400",
+    "imageAlt": "Illustrative placeholder for Our Life (La nostra vita)",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 2,
+    "title": "That Certain Woman",
+    "genre": "Drama|Romance",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "year": 2003,
+    "rating": 2,
+    "director": "Coreen Bonny",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/2-that-certain-woman/600/400",
+    "imageAlt": "Illustrative placeholder for That Certain Woman",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 3,
+    "title": "Gone Nutty",
+    "genre": "Animation|Comedy",
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "year": 2017,
+    "rating": 9,
+    "director": "Ruddie Matteo",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/3-gone-nutty/600/400",
+    "imageAlt": "Illustrative placeholder for Gone Nutty",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 4,
+    "title": "Ruby in Paradise",
+    "genre": "Drama",
+    "genres": [
+      "Drama"
+    ],
+    "year": 2007,
+    "rating": 5,
+    "director": "Rosene Jeffryes",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/4-ruby-in-paradise/600/400",
+    "imageAlt": "Illustrative placeholder for Ruby in Paradise",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 5,
+    "title": "Truth or Die",
+    "genre": "Horror|Thriller",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "year": 2011,
+    "rating": 1,
+    "director": "Meade Benzing",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/5-truth-or-die/600/400",
+    "imageAlt": "Illustrative placeholder for Truth or Die ",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 6,
+    "title": "Big Brown Eyes",
+    "genre": "Comedy|Mystery",
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ],
+    "year": 2007,
+    "rating": 7,
+    "director": "Betty Dismore",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/6-big-brown-eyes/600/400",
+    "imageAlt": "Illustrative placeholder for Big Brown Eyes",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 7,
+    "title": "Muppet Movie, The",
+    "genre": "Adventure|Children|Comedy|Musical",
+    "genres": [
+      "Adventure",
+      "Children",
+      "Comedy",
+      "Musical"
+    ],
+    "year": 2008,
+    "rating": 5,
+    "director": "Karlis Fielden",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/7-muppet-movie-the/600/400",
+    "imageAlt": "Illustrative placeholder for Muppet Movie, The",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 8,
+    "title": "Suez",
+    "genre": "Drama|Romance",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "year": 2008,
+    "rating": 7,
+    "director": "Rand Lemanu",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/8-suez/600/400",
+    "imageAlt": "Illustrative placeholder for Suez",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 9,
+    "title": "We Are Young. We Are Strong.",
+    "genre": "Drama",
+    "genres": [
+      "Drama"
+    ],
+    "year": 2006,
+    "rating": 7,
+    "director": "Dosi Grimsdell",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/9-we-are-young-we-are-strong/600/400",
+    "imageAlt": "Illustrative placeholder for We Are Young. We Are Strong.",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 10,
+    "title": "Mask",
+    "genre": "Drama",
+    "genres": [
+      "Drama"
+    ],
+    "year": 2016,
+    "rating": 8,
+    "director": "Carissa Beastall",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/10-mask/600/400",
+    "imageAlt": "Illustrative placeholder for Mask",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 11,
+    "title": "Riot Club, The",
+    "genre": "Drama|Thriller",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "year": 2014,
+    "rating": 4,
+    "director": "Nissy Douch",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/11-riot-club-the/600/400",
+    "imageAlt": "Illustrative placeholder for Riot Club, The",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 12,
+    "title": "Year of the Hare, The (Jäniksen vuosi)",
+    "genre": "Drama|Romance",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "year": 2010,
+    "rating": 2,
+    "director": "Brianne Rickerd",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/12-year-of-the-hare-the-ja-niksen-vuosi/600/400",
+    "imageAlt": "Illustrative placeholder for Year of the Hare, The (Jäniksen vuosi)",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 13,
+    "title": "We Won't Grow Old Together (Nous ne vieillirons pas ensemble)",
+    "genre": "Drama",
+    "genres": [
+      "Drama"
+    ],
+    "year": 2008,
+    "rating": 2,
+    "director": "Sharl Hayball",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/13-we-won-t-grow-old-together-nous-ne-vieillirons-pas-ensemble/600/400",
+    "imageAlt": "Illustrative placeholder for We Won't Grow Old Together (Nous ne vieillirons pas ensemble)",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 14,
+    "title": "Dudley Do-Right",
+    "genre": "Children|Comedy",
+    "genres": [
+      "Children",
+      "Comedy"
+    ],
+    "year": 2004,
+    "rating": 7,
+    "director": "Elfreda Mordecai",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/14-dudley-do-right/600/400",
+    "imageAlt": "Illustrative placeholder for Dudley Do-Right",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 15,
+    "title": "Slumber Party Massacre III",
+    "genre": "Horror",
+    "genres": [
+      "Horror"
+    ],
+    "year": 2004,
+    "rating": 9,
+    "director": "Mychal Dumphreys",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/15-slumber-party-massacre-iii/600/400",
+    "imageAlt": "Illustrative placeholder for Slumber Party Massacre III",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 16,
+    "title": "Grand Maneuver, The (Les grandes manoeuvres)",
+    "genre": "Comedy|Drama|Romance",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "year": 2012,
+    "rating": 5,
+    "director": "Paquito Chaster",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/16-grand-maneuver-the-les-grandes-manoeuvres/600/400",
+    "imageAlt": "Illustrative placeholder for Grand Maneuver, The (Les grandes manoeuvres)",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 17,
+    "title": "In Her Shoes",
+    "genre": "Comedy|Drama",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "year": 2001,
+    "rating": 9,
+    "director": "Gianina Lesslie",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/17-in-her-shoes/600/400",
+    "imageAlt": "Illustrative placeholder for In Her Shoes",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 18,
+    "title": "Venom",
+    "genre": "Horror|Thriller",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "year": 2014,
+    "rating": 8,
+    "director": "Judy Reidie",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/18-venom/600/400",
+    "imageAlt": "Illustrative placeholder for Venom",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 19,
+    "title": "Stoker",
+    "genre": "Drama|Mystery|Thriller",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "year": 2009,
+    "rating": 6,
+    "director": "Teresina Traynor",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/19-stoker/600/400",
+    "imageAlt": "Illustrative placeholder for Stoker",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 20,
+    "title": "Two Drifters (Odete)",
+    "genre": "Drama",
+    "genres": [
+      "Drama"
+    ],
+    "year": 2014,
+    "rating": 8,
+    "director": "Gerrard Kindread",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/20-two-drifters-odete/600/400",
+    "imageAlt": "Illustrative placeholder for Two Drifters (Odete)",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 21,
+    "title": "Letter to Elia, A",
+    "genre": "Documentary",
+    "genres": [
+      "Documentary"
+    ],
+    "year": 2007,
+    "rating": 5,
+    "director": "Quill Downe",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/21-letter-to-elia-a/600/400",
+    "imageAlt": "Illustrative placeholder for Letter to Elia, A",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 22,
+    "title": "Naked",
+    "genre": "Comedy",
+    "genres": [
+      "Comedy"
+    ],
+    "year": 2014,
+    "rating": 1,
+    "director": "Freddi Mainson",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/22-naked/600/400",
+    "imageAlt": "Illustrative placeholder for Naked",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 23,
+    "title": "Frozen Planet",
+    "genre": "Documentary",
+    "genres": [
+      "Documentary"
+    ],
+    "year": 2016,
+    "rating": 9,
+    "director": "Rhea Astall",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/23-frozen-planet/600/400",
+    "imageAlt": "Illustrative placeholder for Frozen Planet",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 24,
+    "title": "Battlefield Earth",
+    "genre": "Action|Sci-Fi",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "year": 2005,
+    "rating": 4,
+    "director": "Monica Showte",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/24-battlefield-earth/600/400",
+    "imageAlt": "Illustrative placeholder for Battlefield Earth",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 25,
+    "title": "I Want Candy",
+    "genre": "Comedy",
+    "genres": [
+      "Comedy"
+    ],
+    "year": 2010,
+    "rating": 5,
+    "director": "Reidar Clancey",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/25-i-want-candy/600/400",
+    "imageAlt": "Illustrative placeholder for I Want Candy",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 26,
+    "title": "Duel in the Sun",
+    "genre": "Western",
+    "genres": [
+      "Western"
+    ],
+    "year": 2006,
+    "rating": 8,
+    "director": "Jasmine Burles",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/26-duel-in-the-sun/600/400",
+    "imageAlt": "Illustrative placeholder for Duel in the Sun",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 27,
+    "title": "Missing Picture, The (L'image manquante)",
+    "genre": "Documentary",
+    "genres": [
+      "Documentary"
+    ],
+    "year": 2010,
+    "rating": 10,
+    "director": "Rora Molyneux",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/27-missing-picture-the-l-image-manquante/600/400",
+    "imageAlt": "Illustrative placeholder for Missing Picture, The (L'image manquante)",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 28,
+    "title": "Animated Motion: Part 5",
+    "genre": "Animation|Documentary",
+    "genres": [
+      "Animation",
+      "Documentary"
+    ],
+    "year": 2008,
+    "rating": 9,
+    "director": "Osborne Basnett",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/28-animated-motion-part-5/600/400",
+    "imageAlt": "Illustrative placeholder for Animated Motion: Part 5",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 29,
+    "title": "Gatekeepers, The",
+    "genre": "Documentary",
+    "genres": [
+      "Documentary"
+    ],
+    "year": 2014,
+    "rating": 2,
+    "director": "Alix Longdon",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/29-gatekeepers-the/600/400",
+    "imageAlt": "Illustrative placeholder for Gatekeepers, The",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 30,
+    "title": "Rendezvous",
+    "genre": "Comedy|War",
+    "genres": [
+      "Comedy",
+      "War"
+    ],
+    "year": 2016,
+    "rating": 10,
+    "director": "Bernete Parrott",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/30-rendezvous/600/400",
+    "imageAlt": "Illustrative placeholder for Rendezvous",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 31,
+    "title": "2 ou 3 choses que je sais d'elle (2 or 3 Things I Know About Her)",
+    "genre": "Drama",
+    "genres": [
+      "Drama"
+    ],
+    "year": 2013,
+    "rating": 8,
+    "director": "Ashley Dobbings",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/31-2-ou-3-choses-que-je-sais-d-elle-2-or-3-things-i-know-about-her/600/400",
+    "imageAlt": "Illustrative placeholder for 2 ou 3 choses que je sais d'elle (2 or 3 Things I Know About Her)",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 32,
+    "title": "Charleston",
+    "genre": "Comedy|Crime",
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "year": 2006,
+    "rating": 1,
+    "director": "Ted Espinel",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/32-charleston/600/400",
+    "imageAlt": "Illustrative placeholder for Charleston",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 33,
+    "title": "Misery",
+    "genre": "Drama|Horror|Thriller",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "year": 2020,
+    "rating": 4,
+    "director": "Jessamine Cud",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/33-misery/600/400",
+    "imageAlt": "Illustrative placeholder for Misery",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 34,
+    "title": "Himalaya (Himalaya - l'enfance d'un chef)",
+    "genre": "Adventure|Drama",
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "year": 2013,
+    "rating": 10,
+    "director": "Darell Bernaert",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/34-himalaya-himalaya-l-enfance-d-un-chef/600/400",
+    "imageAlt": "Illustrative placeholder for Himalaya (Himalaya - l'enfance d'un chef)",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 35,
+    "title": "Italian for Beginners (Italiensk for begyndere)",
+    "genre": "Comedy|Drama|Romance",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "year": 2013,
+    "rating": 2,
+    "director": "Franciska Chazotte",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/35-italian-for-beginners-italiensk-for-begyndere/600/400",
+    "imageAlt": "Illustrative placeholder for Italian for Beginners (Italiensk for begyndere)",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 36,
+    "title": "Circle of Iron",
+    "genre": "Action|Adventure|Fantasy|Mystery",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Mystery"
+    ],
+    "year": 2013,
+    "rating": 6,
+    "director": "Shellie McCaster",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/36-circle-of-iron/600/400",
+    "imageAlt": "Illustrative placeholder for Circle of Iron",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 37,
+    "title": "Bad Teacher",
+    "genre": "Comedy",
+    "genres": [
+      "Comedy"
+    ],
+    "year": 2013,
+    "rating": 5,
+    "director": "Anastassia Yakunkin",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/37-bad-teacher/600/400",
+    "imageAlt": "Illustrative placeholder for Bad Teacher",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 38,
+    "title": "Story of Luke, The",
+    "genre": "Comedy|Drama",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "year": 2017,
+    "rating": 8,
+    "director": "Hadria Cowles",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/38-story-of-luke-the/600/400",
+    "imageAlt": "Illustrative placeholder for Story of Luke, The",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 39,
+    "title": "Girls Town",
+    "genre": "Comedy|Drama",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "year": 2009,
+    "rating": 2,
+    "director": "Janos Shackle",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/39-girls-town/600/400",
+    "imageAlt": "Illustrative placeholder for Girls Town",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 40,
+    "title": "Dirty Shame, A",
+    "genre": "Comedy",
+    "genres": [
+      "Comedy"
+    ],
+    "year": 2011,
+    "rating": 2,
+    "director": "Cale Yakovich",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/40-dirty-shame-a/600/400",
+    "imageAlt": "Illustrative placeholder for Dirty Shame, A",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 41,
+    "title": "We Are Young. We Are Strong.",
+    "genre": "Drama",
+    "genres": [
+      "Drama"
+    ],
+    "year": 2013,
+    "rating": 3,
+    "director": "Chilton Hissie",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/41-we-are-young-we-are-strong/600/400",
+    "imageAlt": "Illustrative placeholder for We Are Young. We Are Strong.",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 42,
+    "title": "Bread and Alley (Nan va Koutcheh)",
+    "genre": "Drama",
+    "genres": [
+      "Drama"
+    ],
+    "year": 2017,
+    "rating": 9,
+    "director": "Nelia Eslemont",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/42-bread-and-alley-nan-va-koutcheh/600/400",
+    "imageAlt": "Illustrative placeholder for Bread and Alley (Nan va Koutcheh)",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 43,
+    "title": "Bustin' Down the Door",
+    "genre": "Documentary",
+    "genres": [
+      "Documentary"
+    ],
+    "year": 2016,
+    "rating": 3,
+    "director": "Jon Fawlo",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/43-bustin-down-the-door/600/400",
+    "imageAlt": "Illustrative placeholder for Bustin' Down the Door",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 44,
+    "title": "Lords of Flatbush, The",
+    "genre": "Comedy|Drama",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "year": 2012,
+    "rating": 4,
+    "director": "Letisha Antonsson",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/44-lords-of-flatbush-the/600/400",
+    "imageAlt": "Illustrative placeholder for Lords of Flatbush, The",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 45,
+    "title": "Thunder Bay",
+    "genre": "Adventure",
+    "genres": [
+      "Adventure"
+    ],
+    "year": 2019,
+    "rating": 2,
+    "director": "Malorie Gyenes",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/45-thunder-bay/600/400",
+    "imageAlt": "Illustrative placeholder for Thunder Bay",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 46,
+    "title": "Anna: 6-18 (Anna: Ot shesti do vosemnadtsati)",
+    "genre": "Documentary",
+    "genres": [
+      "Documentary"
+    ],
+    "year": 2004,
+    "rating": 1,
+    "director": "Chandra Duplan",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/46-anna-6-18-anna-ot-shesti-do-vosemnadtsati/600/400",
+    "imageAlt": "Illustrative placeholder for Anna: 6-18 (Anna: Ot shesti do vosemnadtsati)",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 47,
+    "title": "Behind Enemy Lines: Colombia (Behind Enemy Lines 3: Ghost Watch)",
+    "genre": "Action|Thriller|War",
+    "genres": [
+      "Action",
+      "Thriller",
+      "War"
+    ],
+    "year": 2011,
+    "rating": 2,
+    "director": "Waverly Joinson",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/47-behind-enemy-lines-colombia-behind-enemy-lines-3-ghost-watch/600/400",
+    "imageAlt": "Illustrative placeholder for Behind Enemy Lines: Colombia (Behind Enemy Lines 3: Ghost Watch)",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 48,
+    "title": "Aftershock",
+    "genre": "Horror|Thriller",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "year": 2014,
+    "rating": 7,
+    "director": "Rania Nelthorp",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/48-aftershock/600/400",
+    "imageAlt": "Illustrative placeholder for Aftershock",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 49,
+    "title": "Going the Distance",
+    "genre": "Comedy|Romance",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "year": 2013,
+    "rating": 3,
+    "director": "Vasily Boost",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/49-going-the-distance/600/400",
+    "imageAlt": "Illustrative placeholder for Going the Distance",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 50,
+    "title": "Three (a.k.a. 3 Extremes II) (Saam gaang)",
+    "genre": "Horror|Mystery",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "year": 2014,
+    "rating": 9,
+    "director": "Spencer Ebdon",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/50-three-a-k-a-3-extremes-ii-saam-gaang/600/400",
+    "imageAlt": "Illustrative placeholder for Three (a.k.a. 3 Extremes II) (Saam gaang)",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 51,
+    "title": "Flicker (Flimmer)",
+    "genre": "Comedy|Drama",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "year": 2012,
+    "rating": 8,
+    "director": "Konrad Deere",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/51-flicker-flimmer/600/400",
+    "imageAlt": "Illustrative placeholder for Flicker (Flimmer)",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 52,
+    "title": "Monty Python's The Meaning of Life",
+    "genre": "Comedy",
+    "genres": [
+      "Comedy"
+    ],
+    "year": 2009,
+    "rating": 10,
+    "director": "Carling Loachhead",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/52-monty-python-s-the-meaning-of-life/600/400",
+    "imageAlt": "Illustrative placeholder for Monty Python's The Meaning of Life",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 53,
+    "title": "Rage, The",
+    "genre": "Horror|Sci-Fi",
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "year": 2006,
+    "rating": 10,
+    "director": "Sharla Whitington",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/53-rage-the/600/400",
+    "imageAlt": "Illustrative placeholder for Rage, The",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 54,
+    "title": "TINY: A Story About Living Small",
+    "genre": "Documentary",
+    "genres": [
+      "Documentary"
+    ],
+    "year": 2014,
+    "rating": 2,
+    "director": "Katuscha Flowers",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/54-tiny-a-story-about-living-small/600/400",
+    "imageAlt": "Illustrative placeholder for TINY: A Story About Living Small",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 55,
+    "title": "Bitter Sweet",
+    "genre": "Drama|Musical|Romance",
+    "genres": [
+      "Drama",
+      "Musical",
+      "Romance"
+    ],
+    "year": 2016,
+    "rating": 5,
+    "director": "Cristen Maryott",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/55-bitter-sweet/600/400",
+    "imageAlt": "Illustrative placeholder for Bitter Sweet",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 56,
+    "title": "Sasquatch: The Legend of Bigfoot",
+    "genre": "Adventure|Mystery",
+    "genres": [
+      "Adventure",
+      "Mystery"
+    ],
+    "year": 2014,
+    "rating": 9,
+    "director": "Linell Inderwick",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/56-sasquatch-the-legend-of-bigfoot/600/400",
+    "imageAlt": "Illustrative placeholder for Sasquatch: The Legend of Bigfoot",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 57,
+    "title": "The Beales of Grey Gardens",
+    "genre": "Documentary",
+    "genres": [
+      "Documentary"
+    ],
+    "year": 2004,
+    "rating": 3,
+    "director": "Malynda Maffeo",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/57-the-beales-of-grey-gardens/600/400",
+    "imageAlt": "Illustrative placeholder for The Beales of Grey Gardens",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 58,
+    "title": "Kivski Freski",
+    "genre": "Drama",
+    "genres": [
+      "Drama"
+    ],
+    "year": 2016,
+    "rating": 1,
+    "director": "Torey Minister",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/58-kivski-freski/600/400",
+    "imageAlt": "Illustrative placeholder for Kivski Freski",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 59,
+    "title": "Girls on the Road (a.k.a. Hot Summer Week)",
+    "genre": "Comedy|Drama|Thriller",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "year": 2015,
+    "rating": 10,
+    "director": "Omar Hales",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/59-girls-on-the-road-a-k-a-hot-summer-week/600/400",
+    "imageAlt": "Illustrative placeholder for Girls on the Road (a.k.a. Hot Summer Week)",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 60,
+    "title": "Bohème, La",
+    "genre": "Drama|Romance",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "year": 2017,
+    "rating": 4,
+    "director": "Amie Strangeways",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/60-bohe-me-la/600/400",
+    "imageAlt": "Illustrative placeholder for Bohème, La",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 61,
+    "title": "Lego: The Adventures of Clutch Powers",
+    "genre": "Action|Animation",
+    "genres": [
+      "Action",
+      "Animation"
+    ],
+    "year": 2006,
+    "rating": 10,
+    "director": "Vilhelmina Huggens",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/61-lego-the-adventures-of-clutch-powers/600/400",
+    "imageAlt": "Illustrative placeholder for Lego: The Adventures of Clutch Powers",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 62,
+    "title": "The Rise",
+    "genre": "Crime|Drama|Thriller",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "year": 2007,
+    "rating": 2,
+    "director": "Jay Glentz",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/62-the-rise/600/400",
+    "imageAlt": "Illustrative placeholder for The Rise",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 63,
+    "title": "Groove Tube, The",
+    "genre": "Comedy",
+    "genres": [
+      "Comedy"
+    ],
+    "year": 2018,
+    "rating": 1,
+    "director": "Kellie McAnulty",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/63-groove-tube-the/600/400",
+    "imageAlt": "Illustrative placeholder for Groove Tube, The",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 64,
+    "title": "Beautiful",
+    "genre": "Drama|Thriller",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "year": 2020,
+    "rating": 3,
+    "director": "Salomi Hallahan",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/64-beautiful/600/400",
+    "imageAlt": "Illustrative placeholder for Beautiful",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 65,
+    "title": "Virus X",
+    "genre": "Horror|Sci-Fi",
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "year": 2016,
+    "rating": 9,
+    "director": "Christiane Schimoni",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/65-virus-x/600/400",
+    "imageAlt": "Illustrative placeholder for Virus X",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 66,
+    "title": "Minus Man, The",
+    "genre": "Drama|Mystery",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "year": 2000,
+    "rating": 2,
+    "director": "Janifer O'Sharkey",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/66-minus-man-the/600/400",
+    "imageAlt": "Illustrative placeholder for Minus Man, The",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 67,
+    "title": "The Law of the Weakest",
+    "genre": "Crime|Drama|Thriller",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "year": 2015,
+    "rating": 10,
+    "director": "Garner Pallent",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/67-the-law-of-the-weakest/600/400",
+    "imageAlt": "Illustrative placeholder for The Law of the Weakest",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 68,
+    "title": "Jesse Stone: Thin Ice",
+    "genre": "Crime|Drama|Mystery",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "year": 2014,
+    "rating": 5,
+    "director": "Barde Serle",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/68-jesse-stone-thin-ice/600/400",
+    "imageAlt": "Illustrative placeholder for Jesse Stone: Thin Ice",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 69,
+    "title": "Man You Had in Mind, The",
+    "genre": "Documentary",
+    "genres": [
+      "Documentary"
+    ],
+    "year": 2007,
+    "rating": 5,
+    "director": "Latashia Gogarty",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/69-man-you-had-in-mind-the/600/400",
+    "imageAlt": "Illustrative placeholder for Man You Had in Mind, The",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 70,
+    "title": "Rude Awakening",
+    "genre": "Comedy",
+    "genres": [
+      "Comedy"
+    ],
+    "year": 2005,
+    "rating": 3,
+    "director": "Krisha Fatkin",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/70-rude-awakening/600/400",
+    "imageAlt": "Illustrative placeholder for Rude Awakening",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 71,
+    "title": "Hot Fuzz",
+    "genre": "Action|Comedy|Crime|Mystery",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ],
+    "year": 2021,
+    "rating": 1,
+    "director": "Bethina McColgan",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/71-hot-fuzz/600/400",
+    "imageAlt": "Illustrative placeholder for Hot Fuzz",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 72,
+    "title": "When in Rome",
+    "genre": "Comedy|Romance",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "year": 2011,
+    "rating": 6,
+    "director": "Harley Perotti",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/72-when-in-rome/600/400",
+    "imageAlt": "Illustrative placeholder for When in Rome",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 73,
+    "title": "Wishmaster 3: Beyond the Gates of Hell",
+    "genre": "Fantasy|Horror",
+    "genres": [
+      "Fantasy",
+      "Horror"
+    ],
+    "year": 2016,
+    "rating": 3,
+    "director": "Efren Goodspeed",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/73-wishmaster-3-beyond-the-gates-of-hell/600/400",
+    "imageAlt": "Illustrative placeholder for Wishmaster 3: Beyond the Gates of Hell",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 74,
+    "title": "Jackpot 2",
+    "genre": "Sci-Fi",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "year": 0,
+    "rating": 2,
+    "director": "Jocko Gierth",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/74-jackpot-2/600/400",
+    "imageAlt": "Illustrative placeholder for Jackpot 2",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 75,
+    "title": "Burma Conspiracy, The (Largo Winch II)",
+    "genre": "Action|Adventure|Thriller",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "year": 2015,
+    "rating": 7,
+    "director": "Corella Jeavon",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/75-burma-conspiracy-the-largo-winch-ii/600/400",
+    "imageAlt": "Illustrative placeholder for Burma Conspiracy, The (Largo Winch II)",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 76,
+    "title": "Star Wars: Episode I - The Phantom Menace",
+    "genre": "Action|Adventure|Sci-Fi",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "year": 2016,
+    "rating": 9,
+    "director": "Winnie Simcoe",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/76-star-wars-episode-i-the-phantom-menace/600/400",
+    "imageAlt": "Illustrative placeholder for Star Wars: Episode I - The Phantom Menace",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 77,
+    "title": "Baghead",
+    "genre": "Comedy|Drama|Horror",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Horror"
+    ],
+    "year": 2013,
+    "rating": 4,
+    "director": "Queenie Venn",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/77-baghead/600/400",
+    "imageAlt": "Illustrative placeholder for Baghead",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 78,
+    "title": "Bambi 2",
+    "genre": "Animation|Children|Drama",
+    "genres": [
+      "Animation",
+      "Children",
+      "Drama"
+    ],
+    "year": 2017,
+    "rating": 7,
+    "director": "Tedda Tinton",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/78-bambi-2/600/400",
+    "imageAlt": "Illustrative placeholder for Bambi 2",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 79,
+    "title": "Syndromes and a Century (Sang sattawat)",
+    "genre": "Drama",
+    "genres": [
+      "Drama"
+    ],
+    "year": 2011,
+    "rating": 3,
+    "director": "Thorny Ricciardelli",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/79-syndromes-and-a-century-sang-sattawat/600/400",
+    "imageAlt": "Illustrative placeholder for Syndromes and a Century (Sang sattawat)",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 80,
+    "title": "Lola Versus",
+    "genre": "Comedy|Romance",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "year": 2014,
+    "rating": 5,
+    "director": "Barnaby Cone",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/80-lola-versus/600/400",
+    "imageAlt": "Illustrative placeholder for Lola Versus",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 81,
+    "title": "Searching for Sugar Man",
+    "genre": "Documentary",
+    "genres": [
+      "Documentary"
+    ],
+    "year": 2014,
+    "rating": 5,
+    "director": "Adrian Emmanueli",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/81-searching-for-sugar-man/600/400",
+    "imageAlt": "Illustrative placeholder for Searching for Sugar Man",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 82,
+    "title": "Incendies",
+    "genre": "Drama|Mystery|War",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "War"
+    ],
+    "year": 2013,
+    "rating": 7,
+    "director": "Florida Machon",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/82-incendies/600/400",
+    "imageAlt": "Illustrative placeholder for Incendies",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 83,
+    "title": "The Gruffalo's Child",
+    "genre": "Adventure|Animation|Children|Fantasy",
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Children",
+      "Fantasy"
+    ],
+    "year": 2018,
+    "rating": 9,
+    "director": "Janette Montgomery",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/83-the-gruffalo-s-child/600/400",
+    "imageAlt": "Illustrative placeholder for The Gruffalo's Child",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 84,
+    "title": "Goemon",
+    "genre": "Action|Drama",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "year": 2011,
+    "rating": 10,
+    "director": "Pearle Dell",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/84-goemon/600/400",
+    "imageAlt": "Illustrative placeholder for Goemon",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 85,
+    "title": "Slipping-Down Life, A",
+    "genre": "Drama|Romance",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "year": 2009,
+    "rating": 1,
+    "director": "Dillie Brezlaw",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/85-slipping-down-life-a/600/400",
+    "imageAlt": "Illustrative placeholder for Slipping-Down Life, A",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 86,
+    "title": "Falling Up",
+    "genre": "Comedy|Drama|Romance",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "year": 2010,
+    "rating": 2,
+    "director": "Dara Dymidowicz",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/86-falling-up/600/400",
+    "imageAlt": "Illustrative placeholder for Falling Up",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 87,
+    "title": "Royal Tenenbaums, The",
+    "genre": "Comedy|Drama",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "year": 2005,
+    "rating": 7,
+    "director": "Pamela Balsdon",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/87-royal-tenenbaums-the/600/400",
+    "imageAlt": "Illustrative placeholder for Royal Tenenbaums, The",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 88,
+    "title": "Greenberg",
+    "genre": "Comedy|Drama",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "year": 2016,
+    "rating": 1,
+    "director": "Avril Flucker",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/88-greenberg/600/400",
+    "imageAlt": "Illustrative placeholder for Greenberg",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 89,
+    "title": "Tube Tales",
+    "genre": "Drama",
+    "genres": [
+      "Drama"
+    ],
+    "year": 2015,
+    "rating": 2,
+    "director": "Ardenia Nockalls",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/89-tube-tales/600/400",
+    "imageAlt": "Illustrative placeholder for Tube Tales",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 90,
+    "title": "Return of the Street Fighter (Satsujin ken 2)",
+    "genre": "Action|Crime|Drama",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "year": 2017,
+    "rating": 2,
+    "director": "Jasper Latore",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/90-return-of-the-street-fighter-satsujin-ken-2/600/400",
+    "imageAlt": "Illustrative placeholder for Return of the Street Fighter (Satsujin ken 2)",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 91,
+    "title": "Mortal Instruments: City of Bones, The",
+    "genre": "Action|Adventure|Drama|IMAX",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "IMAX"
+    ],
+    "year": 2011,
+    "rating": 6,
+    "director": "Ashley Talman",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/91-mortal-instruments-city-of-bones-the/600/400",
+    "imageAlt": "Illustrative placeholder for Mortal Instruments: City of Bones, The",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 92,
+    "title": "Waterboy, The",
+    "genre": "Comedy",
+    "genres": [
+      "Comedy"
+    ],
+    "year": 2015,
+    "rating": 3,
+    "director": "Donny Cogswell",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/92-waterboy-the/600/400",
+    "imageAlt": "Illustrative placeholder for Waterboy, The",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 93,
+    "title": "It's My Mother's Birthday Today",
+    "genre": "(no genres listed)",
+    "genres": [
+      "(no genres listed)"
+    ],
+    "year": 2013,
+    "rating": 3,
+    "director": "Dan Petren",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/93-it-s-my-mother-s-birthday-today/600/400",
+    "imageAlt": "Illustrative placeholder for It's My Mother's Birthday Today",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 94,
+    "title": "Bitter Creek",
+    "genre": "Western",
+    "genres": [
+      "Western"
+    ],
+    "year": 2010,
+    "rating": 3,
+    "director": "Timothea Smithin",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/94-bitter-creek/600/400",
+    "imageAlt": "Illustrative placeholder for Bitter Creek",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 95,
+    "title": "Holly",
+    "genre": "Drama",
+    "genres": [
+      "Drama"
+    ],
+    "year": 2017,
+    "rating": 8,
+    "director": "Antony Carah",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/95-holly/600/400",
+    "imageAlt": "Illustrative placeholder for Holly",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 96,
+    "title": "Summer Holiday",
+    "genre": "Musical|Romance",
+    "genres": [
+      "Musical",
+      "Romance"
+    ],
+    "year": 2004,
+    "rating": 7,
+    "director": "Lindy Hew",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/96-summer-holiday/600/400",
+    "imageAlt": "Illustrative placeholder for Summer Holiday",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 97,
+    "title": "Night at the Museum: Secret of the Tomb",
+    "genre": "Adventure|Children|Comedy|Fantasy",
+    "genres": [
+      "Adventure",
+      "Children",
+      "Comedy",
+      "Fantasy"
+    ],
+    "year": 2011,
+    "rating": 2,
+    "director": "Patten Geer",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/97-night-at-the-museum-secret-of-the-tomb/600/400",
+    "imageAlt": "Illustrative placeholder for Night at the Museum: Secret of the Tomb",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 98,
+    "title": "Lost in Austen",
+    "genre": "Drama|Fantasy|Romance|Sci-Fi",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "year": 2015,
+    "rating": 9,
+    "director": "Armando Crang",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/98-lost-in-austen/600/400",
+    "imageAlt": "Illustrative placeholder for Lost in Austen",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 99,
+    "title": "Inferno",
+    "genre": "Drama",
+    "genres": [
+      "Drama"
+    ],
+    "year": 2014,
+    "rating": 4,
+    "director": "Renato Douch",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/99-inferno/600/400",
+    "imageAlt": "Illustrative placeholder for Inferno",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 100,
+    "title": "36 fillette",
+    "genre": "Drama|Romance",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "year": 2019,
+    "rating": 5,
+    "director": "Zola Scoggin",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/100-36-fillette/600/400",
+    "imageAlt": "Illustrative placeholder for 36 fillette",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 101,
+    "title": "Secondhand Lions",
+    "genre": "Children|Comedy|Drama",
+    "genres": [
+      "Children",
+      "Comedy",
+      "Drama"
+    ],
+    "year": 0,
+    "rating": 9,
+    "director": "Mabelle McGivena",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/101-secondhand-lions/600/400",
+    "imageAlt": "Illustrative placeholder for Secondhand Lions",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 102,
+    "title": "The Duke of Burgundy",
+    "genre": "Drama",
+    "genres": [
+      "Drama"
+    ],
+    "year": 2017,
+    "rating": 7,
+    "director": "Debbi De Gregorio",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/102-the-duke-of-burgundy/600/400",
+    "imageAlt": "Illustrative placeholder for The Duke of Burgundy",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 103,
+    "title": "Curdled",
+    "genre": "Crime",
+    "genres": [
+      "Crime"
+    ],
+    "year": 2013,
+    "rating": 6,
+    "director": "Trev Browett",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/103-curdled/600/400",
+    "imageAlt": "Illustrative placeholder for Curdled",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 104,
+    "title": "Mystery Science Theater 3000: The Movie",
+    "genre": "Comedy|Sci-Fi",
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "year": 2009,
+    "rating": 8,
+    "director": "Cicely Clemente",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/104-mystery-science-theater-3000-the-movie/600/400",
+    "imageAlt": "Illustrative placeholder for Mystery Science Theater 3000: The Movie",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 105,
+    "title": "New Orleans Uncensored",
+    "genre": "Crime|Drama|Film-Noir|Thriller",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir",
+      "Thriller"
+    ],
+    "year": 2019,
+    "rating": 7,
+    "director": "Mischa Castiblanco",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/105-new-orleans-uncensored/600/400",
+    "imageAlt": "Illustrative placeholder for New Orleans Uncensored",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 106,
+    "title": "Lisbon Story",
+    "genre": "Drama",
+    "genres": [
+      "Drama"
+    ],
+    "year": 2012,
+    "rating": 9,
+    "director": "Audie Wharlton",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/106-lisbon-story/600/400",
+    "imageAlt": "Illustrative placeholder for Lisbon Story",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 107,
+    "title": "Sugarbaby",
+    "genre": "Comedy",
+    "genres": [
+      "Comedy"
+    ],
+    "year": 2015,
+    "rating": 1,
+    "director": "Darrin Mapples",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/107-sugarbaby/600/400",
+    "imageAlt": "Illustrative placeholder for Sugarbaby",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 108,
+    "title": "Kummeli Stories",
+    "genre": "Comedy",
+    "genres": [
+      "Comedy"
+    ],
+    "year": 2016,
+    "rating": 3,
+    "director": "Bendick Olenichev",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/108-kummeli-stories/600/400",
+    "imageAlt": "Illustrative placeholder for Kummeli Stories",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 109,
+    "title": "Underground",
+    "genre": "Comedy|Drama|War",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "War"
+    ],
+    "year": 2015,
+    "rating": 5,
+    "director": "Maggie Clark",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/109-underground/600/400",
+    "imageAlt": "Illustrative placeholder for Underground",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 110,
+    "title": "Fagbug",
+    "genre": "Documentary",
+    "genres": [
+      "Documentary"
+    ],
+    "year": 2004,
+    "rating": 8,
+    "director": "Ralf Dinzey",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/110-fagbug/600/400",
+    "imageAlt": "Illustrative placeholder for Fagbug",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 111,
+    "title": "Elstree Calling",
+    "genre": "Comedy|Musical",
+    "genres": [
+      "Comedy",
+      "Musical"
+    ],
+    "year": 2008,
+    "rating": 4,
+    "director": "Anselma Cotterell",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/111-elstree-calling/600/400",
+    "imageAlt": "Illustrative placeholder for Elstree Calling",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 112,
+    "title": "It Came from Outer Space",
+    "genre": "Sci-Fi",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "year": 2009,
+    "rating": 4,
+    "director": "Redford Fery",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/112-it-came-from-outer-space/600/400",
+    "imageAlt": "Illustrative placeholder for It Came from Outer Space",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 113,
+    "title": "National Lampoon's Van Wilder: The Rise of Taj",
+    "genre": "Comedy",
+    "genres": [
+      "Comedy"
+    ],
+    "year": 2014,
+    "rating": 3,
+    "director": "Lisbeth Hindrick",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/113-national-lampoon-s-van-wilder-the-rise-of-taj/600/400",
+    "imageAlt": "Illustrative placeholder for National Lampoon's Van Wilder: The Rise of Taj",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 114,
+    "title": "Tall Tale",
+    "genre": "Adventure|Children|Fantasy|Western",
+    "genres": [
+      "Adventure",
+      "Children",
+      "Fantasy",
+      "Western"
+    ],
+    "year": 2007,
+    "rating": 6,
+    "director": "Annamarie Lugg",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/114-tall-tale/600/400",
+    "imageAlt": "Illustrative placeholder for Tall Tale",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 115,
+    "title": "Ticking Clock",
+    "genre": "Action|Crime|Mystery|Sci-Fi|Thriller",
+    "genres": [
+      "Action",
+      "Crime",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "year": 2012,
+    "rating": 4,
+    "director": "Artus Chetham",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/115-ticking-clock/600/400",
+    "imageAlt": "Illustrative placeholder for Ticking Clock",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 116,
+    "title": "Scream",
+    "genre": "Comedy|Horror|Mystery|Thriller",
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "year": 2013,
+    "rating": 1,
+    "director": "Leann Kohter",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/116-scream/600/400",
+    "imageAlt": "Illustrative placeholder for Scream",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 117,
+    "title": "Maniacts",
+    "genre": "Action|Comedy|Drama|Horror|Romance",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Horror",
+      "Romance"
+    ],
+    "year": 2017,
+    "rating": 7,
+    "director": "Happy Maiklem",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/117-maniacts/600/400",
+    "imageAlt": "Illustrative placeholder for Maniacts",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 118,
+    "title": "Of Human Hearts",
+    "genre": "Drama",
+    "genres": [
+      "Drama"
+    ],
+    "year": 2014,
+    "rating": 8,
+    "director": "Wylma Sentance",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/118-of-human-hearts/600/400",
+    "imageAlt": "Illustrative placeholder for Of Human Hearts",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 119,
+    "title": "One Foot in Heaven",
+    "genre": "Drama",
+    "genres": [
+      "Drama"
+    ],
+    "year": 2015,
+    "rating": 5,
+    "director": "Nariko Kirvell",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/119-one-foot-in-heaven/600/400",
+    "imageAlt": "Illustrative placeholder for One Foot in Heaven",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 120,
+    "title": "Sunburn",
+    "genre": "Action|Comedy|Crime",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "year": 2014,
+    "rating": 5,
+    "director": "Prinz Ludovico",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/120-sunburn/600/400",
+    "imageAlt": "Illustrative placeholder for Sunburn",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 121,
+    "title": "Road House",
+    "genre": "Action|Drama",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "year": 2009,
+    "rating": 1,
+    "director": "Britte Hamblen",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/121-road-house/600/400",
+    "imageAlt": "Illustrative placeholder for Road House",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 122,
+    "title": "Cabin in the Woods, The",
+    "genre": "Comedy|Horror|Sci-Fi|Thriller",
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "year": 2020,
+    "rating": 9,
+    "director": "Justino Accombe",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/122-cabin-in-the-woods-the/600/400",
+    "imageAlt": "Illustrative placeholder for Cabin in the Woods, The",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 123,
+    "title": "Art of the Steal, The",
+    "genre": "Documentary",
+    "genres": [
+      "Documentary"
+    ],
+    "year": 2020,
+    "rating": 5,
+    "director": "Milena Brandrick",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/123-art-of-the-steal-the/600/400",
+    "imageAlt": "Illustrative placeholder for Art of the Steal, The",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 124,
+    "title": "Three Stars",
+    "genre": "Documentary",
+    "genres": [
+      "Documentary"
+    ],
+    "year": 0,
+    "rating": 3,
+    "director": "Michale Gerrietz",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/124-three-stars/600/400",
+    "imageAlt": "Illustrative placeholder for Three Stars",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 125,
+    "title": "Hotel",
+    "genre": "Comedy",
+    "genres": [
+      "Comedy"
+    ],
+    "year": 2012,
+    "rating": 5,
+    "director": "Tyne Lecointe",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/125-hotel/600/400",
+    "imageAlt": "Illustrative placeholder for Hotel",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 126,
+    "title": "Rusty Knife (Sabita naifu)",
+    "genre": "Action|Crime",
+    "genres": [
+      "Action",
+      "Crime"
+    ],
+    "year": 2011,
+    "rating": 3,
+    "director": "Sonia Rosso",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/126-rusty-knife-sabita-naifu/600/400",
+    "imageAlt": "Illustrative placeholder for Rusty Knife (Sabita naifu)",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 127,
+    "title": "Conman (Du Xia 1999)",
+    "genre": "Comedy",
+    "genres": [
+      "Comedy"
+    ],
+    "year": 2020,
+    "rating": 3,
+    "director": "Bearnard Sabbin",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/127-conman-du-xia-1999/600/400",
+    "imageAlt": "Illustrative placeholder for Conman (Du Xia 1999)",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 128,
+    "title": "Phantom of the Opera",
+    "genre": "Horror|Musical|Thriller",
+    "genres": [
+      "Horror",
+      "Musical",
+      "Thriller"
+    ],
+    "year": 2002,
+    "rating": 3,
+    "director": "Sawyere Fawlkes",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/128-phantom-of-the-opera/600/400",
+    "imageAlt": "Illustrative placeholder for Phantom of the Opera",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 129,
+    "title": "Pekka ja Pätkä puistotäteinä",
+    "genre": "Comedy",
+    "genres": [
+      "Comedy"
+    ],
+    "year": 2015,
+    "rating": 6,
+    "director": "Emalee Petronis",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/129-pekka-ja-pa-tka-puistota-teina/600/400",
+    "imageAlt": "Illustrative placeholder for Pekka ja Pätkä puistotäteinä",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 130,
+    "title": "Cutie and the Boxer",
+    "genre": "Documentary",
+    "genres": [
+      "Documentary"
+    ],
+    "year": 2017,
+    "rating": 1,
+    "director": "Miquela Cudbertson",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/130-cutie-and-the-boxer/600/400",
+    "imageAlt": "Illustrative placeholder for Cutie and the Boxer",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 131,
+    "title": "Beautiful Country, The",
+    "genre": "Drama",
+    "genres": [
+      "Drama"
+    ],
+    "year": 2018,
+    "rating": 3,
+    "director": "Regen Amberg",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/131-beautiful-country-the/600/400",
+    "imageAlt": "Illustrative placeholder for Beautiful Country, The",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 132,
+    "title": "Glory",
+    "genre": "Drama|War",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "year": 2012,
+    "rating": 2,
+    "director": "Corinna Elderfield",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/132-glory/600/400",
+    "imageAlt": "Illustrative placeholder for Glory",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 133,
+    "title": "Fifty Dead Men Walking",
+    "genre": "Action|Drama|Thriller",
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "year": 2010,
+    "rating": 8,
+    "director": "Tammie Pont",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/133-fifty-dead-men-walking/600/400",
+    "imageAlt": "Illustrative placeholder for Fifty Dead Men Walking",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 134,
+    "title": "3 Needles",
+    "genre": "Drama",
+    "genres": [
+      "Drama"
+    ],
+    "year": 2020,
+    "rating": 2,
+    "director": "Ebeneser Stanyland",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/134-3-needles/600/400",
+    "imageAlt": "Illustrative placeholder for 3 Needles",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 135,
+    "title": "5x2",
+    "genre": "Drama|Romance",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "year": 2015,
+    "rating": 3,
+    "director": "Joline Toynbee",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/135-5x2/600/400",
+    "imageAlt": "Illustrative placeholder for 5x2",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 136,
+    "title": "Shepherd",
+    "genre": "Sci-Fi",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "year": 2012,
+    "rating": 7,
+    "director": "Danyette Kitchin",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/136-shepherd/600/400",
+    "imageAlt": "Illustrative placeholder for Shepherd",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 137,
+    "title": "Tenant, The (Locataire, Le)",
+    "genre": "Drama|Horror|Mystery|Thriller",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "year": 2014,
+    "rating": 5,
+    "director": "Moll Smidmore",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/137-tenant-the-locataire-le/600/400",
+    "imageAlt": "Illustrative placeholder for Tenant, The (Locataire, Le)",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 138,
+    "title": "Laputa: Castle in the Sky (Tenkû no shiro Rapyuta)",
+    "genre": "Action|Adventure|Animation|Children|Fantasy|Sci-Fi",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Children",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "year": 2020,
+    "rating": 8,
+    "director": "Amaleta Shepton",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/138-laputa-castle-in-the-sky-tenku-no-shiro-rapyuta/600/400",
+    "imageAlt": "Illustrative placeholder for Laputa: Castle in the Sky (Tenkû no shiro Rapyuta)",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 139,
+    "title": "Affluenza",
+    "genre": "Drama",
+    "genres": [
+      "Drama"
+    ],
+    "year": 2017,
+    "rating": 6,
+    "director": "Garald Rehor",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/139-affluenza/600/400",
+    "imageAlt": "Illustrative placeholder for Affluenza",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 140,
+    "title": "Goemon",
+    "genre": "Action|Drama",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "year": 2003,
+    "rating": 10,
+    "director": "Debbie Jennions",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/140-goemon/600/400",
+    "imageAlt": "Illustrative placeholder for Goemon",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 141,
+    "title": "Phantom of the Opera, The",
+    "genre": "Drama|Horror",
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "year": 2010,
+    "rating": 9,
+    "director": "Lucho Reame",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/141-phantom-of-the-opera-the/600/400",
+    "imageAlt": "Illustrative placeholder for Phantom of the Opera, The",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 142,
+    "title": "Hollywood Revue of 1929, The",
+    "genre": "Musical",
+    "genres": [
+      "Musical"
+    ],
+    "year": 2004,
+    "rating": 9,
+    "director": "Marrilee Ivakhno",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/142-hollywood-revue-of-1929-the/600/400",
+    "imageAlt": "Illustrative placeholder for Hollywood Revue of 1929, The",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 143,
+    "title": "Egyptian, The",
+    "genre": "Drama",
+    "genres": [
+      "Drama"
+    ],
+    "year": 2007,
+    "rating": 2,
+    "director": "Andonis Attle",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/143-egyptian-the/600/400",
+    "imageAlt": "Illustrative placeholder for Egyptian, The",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 144,
+    "title": "Unprecedented: The 2000 Presidential Election",
+    "genre": "Documentary",
+    "genres": [
+      "Documentary"
+    ],
+    "year": 2011,
+    "rating": 5,
+    "director": "Fabiano Kusick",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/144-unprecedented-the-2000-presidential-election/600/400",
+    "imageAlt": "Illustrative placeholder for Unprecedented: The 2000 Presidential Election",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 145,
+    "title": "Goal II: Living the Dream",
+    "genre": "Action|Drama",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "year": 2014,
+    "rating": 2,
+    "director": "Amos Arno",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/145-goal-ii-living-the-dream/600/400",
+    "imageAlt": "Illustrative placeholder for Goal II: Living the Dream",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 146,
+    "title": "Sitting Bull",
+    "genre": "Western",
+    "genres": [
+      "Western"
+    ],
+    "year": 2008,
+    "rating": 1,
+    "director": "Rozalin Fairlaw",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/146-sitting-bull/600/400",
+    "imageAlt": "Illustrative placeholder for Sitting Bull",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 147,
+    "title": "Killers, The",
+    "genre": "Crime|Film-Noir",
+    "genres": [
+      "Crime",
+      "Film-Noir"
+    ],
+    "year": 2020,
+    "rating": 6,
+    "director": "Bell Paschke",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/147-killers-the/600/400",
+    "imageAlt": "Illustrative placeholder for Killers, The",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 148,
+    "title": "Bond Girls Are Forever",
+    "genre": "Documentary",
+    "genres": [
+      "Documentary"
+    ],
+    "year": 2013,
+    "rating": 8,
+    "director": "Nanice Carnew",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/148-bond-girls-are-forever/600/400",
+    "imageAlt": "Illustrative placeholder for Bond Girls Are Forever",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 149,
+    "title": "Ski Patrol",
+    "genre": "Action|War",
+    "genres": [
+      "Action",
+      "War"
+    ],
+    "year": 2014,
+    "rating": 1,
+    "director": "Evita Bass",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/149-ski-patrol/600/400",
+    "imageAlt": "Illustrative placeholder for Ski Patrol",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  },
+  {
+    "id": 150,
+    "title": "Insidious",
+    "genre": "Fantasy|Horror|Thriller",
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Thriller"
+    ],
+    "year": 2016,
+    "rating": 8,
+    "director": "Gustie Fayre",
+    "metadata": {
+      "language": "Unknown",
+      "dataSource": "Original Assignment 1 dataset",
+      "enrichmentMethod": "Node.js transformation"
+    },
+    "imageUrl": "https://picsum.photos/seed/150-insidious/600/400",
+    "imageAlt": "Illustrative placeholder for Insidious",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/"
+  }
+]
